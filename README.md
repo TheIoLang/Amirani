@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://jbloves27.repl.co"><img src="https://avatars.githubusercontent.com/u/76911308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>an aspirin</b></sub></a><br /><a href="https://github.com/TheIoLang/Amirani/commits?author=JBYT27" title="Code">💻</a> <a href="https://github.com/TheIoLang/Amirani/commits?author=JBYT27" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://jbloves27.repl.co"><img src="https://avatars.githubusercontent.com/u/76911308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>an aspirin</b></sub></a><br /><a href="https://github.com/TheIoLang/Amirani/commits?author=JBYT27" title="Code">💻</a> <a href="https://github.com/TheIoLang/Amirani/commits?author=JBYT27" title="Documentation">📖</a> <a href="#tool-JBYT27" title="Tools">🔧</a> <a href="#maintenance-JBYT27" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
