@@ -12,7 +12,9 @@
       "profile": "http://jbloves27.repl.co",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "tool",
+        "maintenance"
       ]
     }
   ],
