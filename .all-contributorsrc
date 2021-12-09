@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JBYT27",
+      "name": "an aspirin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76911308?v=4",
+      "profile": "http://jbloves27.repl.co",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Amirani",
+  "projectOwner": "TheIoLang",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
